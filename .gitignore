@@ -1,0 +1,12 @@
+# Virtual environments
+environ/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime folders
+uploads/
+.env
