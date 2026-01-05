@@ -10,3 +10,6 @@ __pycache__/
 # Runtime folders
 uploads/
 .env
+
+# VS Code temp
+tempCodeRunnerFile.py
